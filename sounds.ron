@@ -1,6 +1,6 @@
 (
 	default_img: "default.png",
-	name: "Giratron's Incredibly Crappy Sounds",
+	name: "Giratrons Incredibly Crappy Sounds",
 	sounds: [
 		(
 			name: "POYO!",
@@ -8,7 +8,7 @@
 			img: None
 		),
 		(
-			name: "Gentlemen~",
+			name: "Gentlemen",
 			wav: "spy_gentlemen.mp3",
 			img: None
 		),

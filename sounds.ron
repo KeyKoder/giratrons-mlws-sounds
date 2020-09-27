@@ -1,0 +1,26 @@
+(
+	default_img: "default.png",
+	name: "Giratron's Incredibly Crappy Sounds",
+	sounds: [
+		(
+			name: "POYO!",
+			wav: "kirby-poyo.mp3",
+			img: None
+		),
+		(
+			name: "Gentlemen~",
+			wav: "spy_gentlemen.mp3",
+			img: None
+		),
+		(
+			name: "*dun*",
+			wav: "winxp_error.mp3",
+			img: None
+		),
+		(
+			name: "*villager noises*",
+			wav: "voice.wav",
+			img: None
+		)
+	]
+)

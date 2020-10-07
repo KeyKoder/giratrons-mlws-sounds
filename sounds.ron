@@ -8,11 +8,6 @@
 			img: None
 		),
 		(
-			name: "Gentlemen~",
-			wav: "spy_gentlemen.mp3",
-			img: None
-		),
-		(
 			name: "*dun*",
 			wav: "winxp_error.mp3",
 			img: None
@@ -25,6 +20,11 @@
 		(
 			name: "THICC",
 			wav: "thicc.mp3",
+			img: None
+		),
+		(
+			name: "Simul-f*cking-taneouly",
+			wav: "randall_simultaneously.wav",
 			img: None
 		)
 	]

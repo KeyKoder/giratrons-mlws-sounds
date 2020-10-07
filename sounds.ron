@@ -8,7 +8,7 @@
 			img: None
 		),
 		(
-			name: "Gentlemen",
+			name: "Gentlemen~",
 			wav: "spy_gentlemen.mp3",
 			img: None
 		),
@@ -20,6 +20,11 @@
 		(
 			name: "*villager noises*",
 			wav: "voice.wav",
+			img: None
+		),
+		(
+			name: "THICC",
+			wav: "thicc.mp3",
 			img: None
 		)
 	]

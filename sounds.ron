@@ -26,6 +26,16 @@
 			name: "Simul-f*cking-taneouly",
 			wav: "randall_simultaneously.wav",
 			img: None
+		),
+		(
+			name: "SANESS",
+			wav: "saness.wav",
+			img: Some("saness.png")
+		),
+		(
+			name: "DO U WANNA HAV A BAD TOM?!??!",
+			wav: "badtom.wav",
+			img: Some("saness.png")
 		)
 	]
 )

@@ -33,7 +33,7 @@
 			img: Some("saness.png")
 		),
 		(
-			name: "DO U WANNA HAV A BAD TOM?!??!",
+			name: "DO U WANNA HAV A BAD TOM",
 			wav: "badtom.wav",
 			img: Some("saness.png")
 		)

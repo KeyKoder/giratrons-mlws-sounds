@@ -36,6 +36,16 @@
 			name: "DO U WANNA HAV A BAD TOM",
 			wav: "badtom.wav",
 			img: Some("saness.png")
+		),
+		(
+			name: "UP",
+			wav: "up.wav",
+			img: Some("up.png")
+		),
+		(
+			name: "THE ONE GOAL",
+			wav: "one_goal.wav",
+			img: Some("up.png")
 		)
 	]
 )

@@ -46,6 +46,16 @@
 			name: "THE ONE GOAL",
 			wav: "one_goal.wav",
 			img: Some("up.png")
+		),
+		(
+			name: "Chase myself thru hell",
+			wav: "gonna chase myself thru hell.wav",
+			img: Some("billwurtz.png")
+		),
+		(
+			name: "And dont die",
+			wav: "and dont die.wav",
+			img: Some("billwurtz.png")
 		)
 	]
 )

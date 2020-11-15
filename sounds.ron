@@ -56,6 +56,11 @@
 			name: "And dont die",
 			wav: "and dont die.wav",
 			img: Some("billwurtz.png")
+		),
+		(
+			name: "Oh thats GAY",
+			wav: "thats_gay.wav",
+			img: Some("demomesa.png")
 		)
 	]
 )
